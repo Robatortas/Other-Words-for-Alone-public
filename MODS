@@ -1,0 +1,21 @@
+READ THIS IF YOU WANT TO MODIFY GAME
+
+To make your own texture packs in the game, you need to open the jar file with winrar, then all the files will appear.
+
+Next you go to res/textures/spritesheets and select the spritesheet you want to modify.
+
+Then you need to open the png file in your editing program of choice, I use paint.net, I recommend you to use it.
+
+Then you modify the textures that are there, you save the file and apply it to the jar. and that is it.
+
+If you modify the game and want changes to apply to it, you need to play with the jar to see the changes you made.
+
+If you are interested in modding the game with code. You just need to read how I coded it and you will understand how
+it works fairly quicky, ONLY MODIFY THE GAME CODE IF YOU KNOW WHAT YOU ARE DOING, if you dont have previous experience
+on programming, you may cause glitches in-game and probably crash it.
+
+Hope this helps!!
+
+USE JAVA 1.8.0 OR ABOVE TO PLAY GAME
+
+- Robatortas
