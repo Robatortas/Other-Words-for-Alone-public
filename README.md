@@ -2,8 +2,8 @@
 A java game me and my team are working on, test state.
 
 DOWNLOAD THE GAME IN THE RIGHT, WHERE IT SAYS RELEASES!
-![image](https://user-images.githubusercontent.com/72624799/143496118-413d2ab4-a0cb-4048-83e9-c7ac270a09ba.png)
 
+![image](https://user-images.githubusercontent.com/72624799/143496118-413d2ab4-a0cb-4048-83e9-c7ac270a09ba.png)
 
 Your OS will probably tell you that the game may be a virus. WHICH IT IS NOT! Take my word.
 
