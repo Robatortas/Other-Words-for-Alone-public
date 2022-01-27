@@ -9,28 +9,28 @@ Your OS will probably tell you that the game may be a virus. WHICH IT IS NOT! Ta
 
 # Credits:
 
-Lead Team
+Lead Team:
 Robatortas
 
-Game Developer
+Game Developer:
 Robatortas
 
-Launcher Developer
+Launcher Developer:
 Robatortas
 
-Game Engine
+Game Engine:
 Robatortas
 
-Art Design
+Art Design:
 Robatortas
 Skygallop
 John F. Kennedy
 Aletz
 
-Ideas
+Ideas:
 OctaBlanc :)
 
-Special Thanks
+Special Thanks:
 Community (OctaBlanc)
 
 ![image](https://user-images.githubusercontent.com/72624799/129495543-4b55b5ec-1c0f-471b-8750-44860097fe3a.png)
