@@ -1,4 +1,4 @@
-# Pixel-Game
+# Other Words for Alone
 A java game me and my team are working on, test state.
 
 DOWNLOAD THE GAME IN THE RIGHT, WHERE IT SAYS RELEASES!
